@@ -13,17 +13,17 @@ img {
   color: white;
 }
 
-#fila .gb {
+#row .gb {
   background-color: grey;
   font-size: 2em;
   text-align: center;
 }
 
-#listas li {
+#lists li {
   color: red;
 }
 
-#cinco {
+#five {
   background-color: yellow;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -36,8 +36,7 @@ table {
   width: 50%;
 }
 
-td,
-th {
+td, th {
   border: 1px solid black;
 }
 
